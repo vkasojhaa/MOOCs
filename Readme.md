@@ -1,7 +1,7 @@
 # Readme
 Certificates of MOOCs completed by me. <br>
 <ul>
-
+<b>
 <li> Algorithms 1 - Stanford <br>
 <img src="/Algorithms 1- Stanford-1.png" width = "600" height= "450">
 
