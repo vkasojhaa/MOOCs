@@ -2,7 +2,7 @@
 Certificates of MOOCs completed by me. <br>
 <ul>
 <li> Algorithms 1 - Stanford
-<img src="/Algorithms 1- Stanford-1.png">
+<img src="/Algorithms 1- Stanford-1.png" width = "600" height= "500" align="middle">
 <li> MITx 6.00.1
 <li> MITx 6.00.2
 <li> Introduction to Data Science using Python - University of Michigan
