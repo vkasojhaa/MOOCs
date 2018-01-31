@@ -18,9 +18,9 @@ Certificates of MOOCs completed by me. <br>
 <img src="/MITx 6.00.2x Certificate _ edX-1.png" width = "600" height= "450">
 
 <li> Using Python to Access Web Data - University of Michigan <br>
-<img src="/Using Python to Access Web Data-1.png" width = "600" height= "450">
+<img src="/Using Python to Access Web Data-1.png" width = "600" height= "430">
 
 <li> Programming Foundations with JavaScript, HTML and CSS - Duke University<br>
-<img src="Coursera-Foundation of Web Dev-1.png" width = "600" height= "450">
+<img src="Coursera-Foundation of Web Dev-1.png" width = "600" height= "430">
 
 </ul>
