@@ -2,6 +2,13 @@
 Certificates of MOOCs completed by me. <br>
 <ul>
 <b>
+
+<li> Neural Networks and Deep Learning - deeplearning.ai<br>
+<img src="/Algorithms 1- Stanford-1.png" width = "600" height= "450">
+
+<li> Improving Deep Neural Networks:Hyperparameter tuning, Regularization and Optimization - deeplearning.ai<br>
+<img src="/Algorithms 1- Stanford-1.png" width = "600" height= "450">
+
 <li> Algorithms 1 - Stanford <br>
 <img src="/Algorithms 1- Stanford-1.png" width = "600" height= "450">
 
